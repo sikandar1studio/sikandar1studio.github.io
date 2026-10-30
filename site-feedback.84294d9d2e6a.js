@@ -11,7 +11,7 @@
   if(e.target.closest('input,textarea,select')){hide();return;}tx=e.clientX;ty=e.clientY;
   if(!visible){x=tx;y=ty;visible=true;orbit.classList.add('is-visible');}if(!frame)frame=requestAnimationFrame(tick);
   const action=e.target.closest('a,button,summary');orbit.classList.toggle('is-action',!!action);
-  orbit.textContent=action?.matches('.visual-case-link,.case-next')?'↗':'';
+  orbit.textContent=action?.matches('.visual-case-link,.case-next')?'↗\uFE0E':'';
  },{passive:true});
  root.addEventListener('pointerleave',hide);document.addEventListener('keydown',e=>{if(e.key==='Tab')hide();});
  const magnets=[...document.querySelectorAll('.action-button')];
