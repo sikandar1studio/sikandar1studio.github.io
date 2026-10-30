@@ -1,0 +1,1 @@
+(()=>{const t=document.querySelector('link[rel="canonical"]');if(!t)return;const e=new URL(t.href).pathname;location.pathname===e+"index.html"&&history.replaceState(history.state,"",e+location.search+location.hash)})();
