@@ -24,7 +24,7 @@ Project-specific credits appear in each case study. Three.js license: `vendor/TH
 
 ## Services and blog
 
-Six service pages explain scope, process and relevant portfolio work. Three authored guides connect project planning with real case studies. Shared navigation, structured metadata and the sitemap link these pages.
+Six service pages explain scope, process and relevant portfolio work. Five independently written articles cover current AI, software, video, search and 3D topics, with cited research and contextual service links. Shared navigation, structured metadata and the sitemap link these pages.
 
 ## Public URLs
 
