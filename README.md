@@ -22,6 +22,10 @@ Responsive WebP images and optimized viewer copies preserve each composition. An
 
 Project-specific credits appear in each case study. Three.js license: `vendor/THREE-LICENSE.txt`. All portfolio imagery and content retain their respective rights.
 
+## Services and blog
+
+Six service pages explain scope, process and relevant portfolio work. Three authored guides connect project planning with real case studies. Shared navigation, structured metadata and the sitemap link these pages.
+
 ## Public URLs
 
 The project browser lives at `/work/`, with descriptive case-study addresses such as `/work/cyber-awareness/`. Older `.html` project links redirect to the same content, preserving query parameters and section anchors. Canonical metadata and the sitemap use only the clean URLs.
